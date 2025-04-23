@@ -1,0 +1,8 @@
+body {
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
